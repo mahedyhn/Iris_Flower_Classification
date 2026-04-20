@@ -1,6 +1,5 @@
-# Iris Flower Classification - CodeAlpha Task 1
-
-This project is part of my Data Science internship at CodeAlpha. It uses the Iris dataset to classify flowers into three species: Setosa, Versicolor, and Virginica.
+# Iris Flower Classification
+It uses the Iris dataset to classify flowers into three species: Setosa, Versicolor, and Virginica.
 
 ## Dataset
 The dataset contains measurements of sepal length, sepal width, petal length, and petal width.
